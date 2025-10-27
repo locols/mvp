@@ -17,6 +17,7 @@ function App() {
           </div>
         </div>
         <div className="row-item"></div>
+        <div className="row-item removed"></div>
         <div className="row-item item-2">
           <h2>Nurture your ideas</h2>
           <p>Collaborate towards the future we want to exist <br />Allocate funds to those who are building this future</p>

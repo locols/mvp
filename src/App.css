@@ -63,6 +63,11 @@ a {
   justify-content: space-between;
 }
 
+.white-space {
+  width: 36rem;
+  max-width: calc(80% - 100px);
+}
+
 .item-1 div :first-child{
   margin-bottom: 16px;
 }
@@ -84,7 +89,7 @@ a {
 
 img {
   position: absolute;
-  right: 4%;
+  right: 0;
   bottom: 0;
   width: 47.5rem;
   max-width: calc(100% - 600px);
@@ -92,6 +97,12 @@ img {
 }
 
 /* Mobile */
+
+@media (max-width: 1600px) {
+  .removed {
+    display: none;
+  }
+}
 
 @media (max-width: 1024px) {
   #row {
