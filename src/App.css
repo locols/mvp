@@ -110,6 +110,8 @@ img {
   }
 
   img {
+    position: relative;
+    bottom: -72px;
     width: 100%;
     max-width: 20rem;
     left: 50%;
