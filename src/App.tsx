@@ -34,7 +34,7 @@ function App() {
             let them easily bootstrap capital and early users. 
           </p>
           <div className="links">
-            <a href="https://locol.garden">→ locol.garden</a>
+            <a href="https://t.me/locolised">→ t.me/locolised</a>
             <a href="https://x.com/locolised">→ x.com/locolised</a>
           </div>
         </div>
