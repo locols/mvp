@@ -1,4 +1,5 @@
 import './App.css'
+import img from '../src/assets/uh.png';
 import { Analytics } from '@vercel/analytics/react';
  
 function App() {
@@ -47,7 +48,7 @@ function App() {
         </div>
       </div>
       
-      <img src="../src/assets/uh.png" alt="" />
+      <img src={img} alt="img" />;
       <Analytics />
     </>
   )
