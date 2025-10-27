@@ -48,6 +48,7 @@ function App() {
       </div>
       
       <img src="../src/assets/uh.png" alt="" />
+      <Analytics />
     </>
   )
 }
